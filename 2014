@@ -1,0 +1,60 @@
+[Jan22 Tues]
+今天sato-san来邮件了，说数据已经标注完成，我明天找时间好好研究一下。
+并且他说到想做更多的邮件，所以我可以接下来几天想改下UI，refactor下code。
+之后再弄better initialization吧
+
+[Jan21 Mon]
+centerMove的版本写完了，我还是觉得可能centerMove和centerFixed版本会好一些，
+但是为什么会有一些原本success的case反而fail掉了，就不知道了
+晚上看了非诚勿扰，感觉这句话说得不错“异地恋就像手机里养个宠物猫”
+同时我也不理解，为什么女嘉宾都这么介意留胡子。
+
+[Jan20 Sun]
+又改了下代码，完成了centerMove版本，等着明天看结果。
+
+[Jan19 Sat]
+实验跑完了，我觉得效果还不如baseline的说
+推了一下午的公式，用latex写公式，真累！
+不过明天终于可以照着写代码了。
+retoruto字幕组的视频又更新了，EVO: Search for Eden(4.6 Billion Year Story: To Distant Eden)终于完结了，akiba's trip也马上到大结局了，好开心；
+
+[Jan18 Fri]
+产品组那边的Sata－san说可以正常访问我的demo，好开心！
+本来已经写好的修改后的CenterFixed模型，竟然还是调试了好久才调好，初步看起来，结果变差了。
+明天或者后天跑完之后，再试试Center模型，看看效果怎么样吧。
+Jinyu推荐的texMaker真好用！
+
+[Jan17 Thurs]
+去google面summer intern，以算法题为主，自我感觉良好，希望不会被拒(期望年后出结果)
+感觉candidates阵容太可怕了，我等Beijing二流学校ICPC Final的2015级毕业生可能都到齐了。。。
+中午和bnu的基友吃饭，聊得很开心。
+同时下去电话面了网易的intern，感觉问的问题天南海北，大一学的那些平时用不上基础东西被问个底朝天。
+晚上和同事一起吃饺子，聊了很多research的问题，我越来越觉得自己可能不适合research。
+可能是由于早晨起得太早，在公司的装完软件并且改完bug，就会10点左右就回寝室了。
+
+[Jan16 Wed]
+表示电脑修好了，在公司安装了1天的软件。
+看起来XMind的确挺直观的
+晚上睡不着，不争气的看了一部老电影《甲方乙方》，感觉电影里充满了之前社会主义的口号。
+
+[Jan15 Tues] 
+又窝在寝室看了一天的视频，水了1天的人人。。。看到soman学姐每周都坚持记日志，鸡冻了。
+看网上推荐XMind这个软件，安装后一眼就是eclipse做的，反正看起来比mindnodeLite强大就是了
+很多人推荐sublime 2， 先试用几天再说吧。。。
+sphinx doc似乎也值得花几天玩玩的样子。。。
+说说前几天看非诚勿扰的感受吧：别人家的孩子太强了！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
