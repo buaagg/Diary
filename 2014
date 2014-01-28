@@ -1,30 +1,57 @@
-[Jan22 Tues]
+[Jan28 Tue]
+刷到了一张Jan29的车票，可以提前1天走了，好开心。
+才知道，原来hentai是变态的意思，而不是绅士的意思，之前受日漫的影响太深了。。。
+
+[Jan27 Mon]
+原来我的日文名字叫做Kiyofumi，真的好好听呀！
+今天开始尝试理解TILT代码，然后程序就被我改崩溃了，明天修复吧。。。
+
+[Jan26 Sun]
+想到了一个很好的算法题目，希望会被录用~~~
+感觉还是感觉非诚勿扰中盼盼的牵手成功太假了。。。
+
+[Jan25 Sat]
+才知道原来强行矫正左撇子，可能产生语言障碍。。。
+
+[Jan24 Fri]
+继续重构中。。。
+
+[Jan23 Thur]
+感觉Windows下的sublime 2的字体好难看呀，在网上下了一个"YaHei Consolas hybrid"，终于舒服一些了。
+在Windows下编辑注册表，实现"Edit via Sublime2"右键菜单，强迫症患者表示舒服多了。
+我还是没忍住重构了一下代码
+
+[Jan22 Wed]
+今天根据Sata-san的标注做了一个Report，Unacceptable Rate大概在10%-15%之间。
+我还是忍不住想要重构自己的代码怎么破?
+
+[Jan21 Tues]
 今天sato-san来邮件了，说数据已经标注完成，我明天找时间好好研究一下。
 并且他说到想做更多的邮件，所以我可以接下来几天想改下UI，refactor下code。
 之后再弄better initialization吧
 
-[Jan21 Mon]
+[Jan20 Mon]
 centerMove的版本写完了，我还是觉得可能centerMove和centerFixed版本会好一些，
 但是为什么会有一些原本success的case反而fail掉了，就不知道了
 晚上看了非诚勿扰，感觉这句话说得不错“异地恋就像手机里养个宠物猫”
 同时我也不理解，为什么女嘉宾都这么介意留胡子。
 
-[Jan20 Sun]
+[Jan19 Sun]
 又改了下代码，完成了centerMove版本，等着明天看结果。
 
-[Jan19 Sat]
+[Jan18 Sat]
 实验跑完了，我觉得效果还不如baseline的说
 推了一下午的公式，用latex写公式，真累！
 不过明天终于可以照着写代码了。
 retoruto字幕组的视频又更新了，EVO: Search for Eden(4.6 Billion Year Story: To Distant Eden)终于完结了，akiba's trip也马上到大结局了，好开心；
 
-[Jan18 Fri]
+[Jan17 Fri]
 产品组那边的Sata－san说可以正常访问我的demo，好开心！
 本来已经写好的修改后的CenterFixed模型，竟然还是调试了好久才调好，初步看起来，结果变差了。
 明天或者后天跑完之后，再试试Center模型，看看效果怎么样吧。
 Jinyu推荐的texMaker真好用！
 
-[Jan17 Thurs]
+[Jan16 Thurs]
 去google面summer intern，以算法题为主，自我感觉良好，希望不会被拒(期望年后出结果)
 感觉candidates阵容太可怕了，我等Beijing二流学校ICPC Final的2015级毕业生可能都到齐了。。。
 中午和bnu的基友吃饭，聊得很开心。
@@ -32,12 +59,12 @@ Jinyu推荐的texMaker真好用！
 晚上和同事一起吃饺子，聊了很多research的问题，我越来越觉得自己可能不适合research。
 可能是由于早晨起得太早，在公司的装完软件并且改完bug，就会10点左右就回寝室了。
 
-[Jan16 Wed]
+[Jan15 Wed]
 表示电脑修好了，在公司安装了1天的软件。
 看起来XMind的确挺直观的
 晚上睡不着，不争气的看了一部老电影《甲方乙方》，感觉电影里充满了之前社会主义的口号。
 
-[Jan15 Tues] 
+[Jan14 Tues] 
 又窝在寝室看了一天的视频，水了1天的人人。。。看到soman学姐每周都坚持记日志，鸡冻了。
 看网上推荐XMind这个软件，安装后一眼就是eclipse做的，反正看起来比mindnodeLite强大就是了
 很多人推荐sublime 2， 先试用几天再说吧。。。

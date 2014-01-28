@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+;-------------------------
+[HKEY_CLASSES_ROOT\*\shell]
+[HKEY_CLASSES_ROOT\*\shell\Sublime2]
+@="Edit via Sublime2"
+[HKEY_CLASSES_ROOT\*\shell\Sublime2\Command]
+@="D:\\SublimeText2x64\\sublime_text.exe %1"
